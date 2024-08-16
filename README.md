@@ -6,6 +6,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 $ yarn install
 ```
 
+The engine "node" is incompatible with this module. Expected version ">=18.17.0". Got "16.20.1" if got this error
+```bash
+$ nvm use 18.17.0
+```
+
 
 ## Getting Started
 
